@@ -35,11 +35,19 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The mirrour of humilitie: or Two eloquent and acute discourses vpon the natiuitie and passion of Chr
+
+1. TO THE WORSHIPFVLL, his worthy friend, Thomas Nicholas Eſquier, as alſo to the vertuous and religious Gentlewoman, Mrs. Iane Nicholas his wife, and my muſt louing Aunt, all happineſſe of this, and a better Life.
+
+1. To the courteous Reader.
+
 #####Body#####
-The mirrour of humilitie: or Two eloquent and acute discourses vpon the natiuitie and passion of Chr
+
+1. HOM. I. Vpon the Natiuity of Chriſt.
+
+1. VPON THE PASSION OF CHRIST. HOM. II.
+
 #####Back#####
-The mirrour of humilitie: or Two eloquent and acute discourses vpon the natiuitie and passion of Chr
+LONDON, Imprinted by Bernard Alſop, and are to bee ſolde at his houſe by Saint Annes Church neere Al
 **Types of content**
 
   * There are 2 **verse** lines!
